@@ -48,15 +48,15 @@ Contributed to benchmarking against industry peers and established a foundation 
 
 # 💾Technical and Soft Skills
 # 💫Technical Skills:
-Proficient in ETL methodology (Extract, Transform, Load).
-Skilled in generating date tables using Power Query.
-Experienced in deriving fiscal months and quarters.
-Proficient in establishing data model relationships with Power Pivot.
-Adept at incorporating supplementary data into existing data models.
-Skilled in using DAX to create calculated columns.
+1. Proficient in ETL methodology (Extract, Transform, Load).
+2. Skilled in generating date tables using Power Query.
+3. Experienced in deriving fiscal months and quarters.
+4. Proficient in establishing data model relationships with Power Pivot.
+5. Adept at incorporating supplementary data into existing data models.
+6. Skilled in using DAX to create calculated columns.
 
 # 💫Soft Skills:
-Possess a refined understanding of Sales and Finance Reports.
-Capable of designing user-centric reports with empathy in mind.
-Experienced in optimizing report generation through meticulous fine-tuning.
-Skillful in developing a systematic approach to devising a report-building plan.
+1. Possess a refined understanding of Sales and Finance Reports.
+2. Capable of designing user-centric reports with empathy in mind.
+3. Experienced in optimizing report generation through meticulous fine-tuning.
+4. Skillful in developing a systematic approach to devising a report-building plan.
